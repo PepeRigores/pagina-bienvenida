@@ -8,6 +8,7 @@ Este es mi primer proyecto en GitHub.
 - Markdown
 ## 📁 Estructura del proyecto
 pagina-bienvenida
+
 ┣ 📄 index.html
 
 ┣ 📄 style.css

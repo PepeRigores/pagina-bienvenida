@@ -1,7 +1,7 @@
 # Bienvenido a mi repositorio 🚀
 Este es mi primer proyecto en GitHub.
 ## 👤 Autor
-**Jose Conesa NIcolas**
+**Jose Conesa Nicolas**
 ## 📚 Tecnologías usadas
 - HTML
 - CSS
@@ -11,3 +11,4 @@ pagina-bienvenida
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┗ 📄 README.md
+
